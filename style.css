@@ -35,3 +35,15 @@ div{
     font-size: 100%;
 }
 
+footer{
+    color:white;
+}
+
+a{
+    color:white;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
